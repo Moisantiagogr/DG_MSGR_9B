@@ -3,3 +3,6 @@ Usuario2 agreagando cambios
 usuario2 linea de codigo
 usuario2 tercer cambio
 usuario2 linea de texto
+Usuario 1 ha relaizado un cambio
+Usuario 1 realizo otro cambio
+
