@@ -1,1 +1,4 @@
 Configuración inicial
+
+Usuario 1 ha relaizado un cambio
+Usuario 1 realizo otro cambio
